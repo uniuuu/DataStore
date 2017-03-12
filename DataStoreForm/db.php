@@ -1,6 +1,6 @@
 <?php
 	$db = mysqli_connect("localhost", "root", "", "datastore");
-	//$db = mysql_connect("localhost","root","");
-	//mysql_select_db("datastore" ,$db);
+	//$db = mysqli_connect("localhost","root","");
+	//mysqli_select_db("datastore" ,$db);
 
 ?>
